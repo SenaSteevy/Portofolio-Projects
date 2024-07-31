@@ -12,6 +12,11 @@ Welcome to my data analysis portfolio! Here, you'll find a collection of project
 - **Tools Used:** SQL, Sql Server Management Studio
 - **Description:** Here we did some data cleaning process on a housing Dataset. Again the related files are in the repository.
 
+  ## Project 3: Data Cleaning and Dashboarding with Excel
+
+- **Tools Used:** Ms Excel
+- **Description:** Here we did some data cleaning process on a bike sales datasets.Then we create some Pivot Table and Dashboard to explore them. Again the related files are in the repository.
+
 
 
 
